@@ -8,3 +8,11 @@ In this assignment you will design and train a backpropagation network to learn 
 3.	Repeat (1) using bipolar sigmoid and bipolar representation for exclusive-OR function. The network should converge faster. 
 4.	Verify that Nguyen-Widrow approach of assigning initial weights improves convergence. 
 5.	Use two hidden layers (3 units in the first hidden layer and 2 units in the second hidden layer).  
+
+
+| x1  | x2  | xor |
+| --- | --- | --- |
+| 0   | 0   | 0   |
+| 1   | 0   | 1   |
+| 0   | 1   | 1   |
+| 1   | 1   | 0   |
